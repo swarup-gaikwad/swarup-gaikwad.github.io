@@ -1,3 +1,3 @@
-document.onload(function(){
-    window.alert("boom");
-})
+(function(){
+    window.alert("hello");
+})()
